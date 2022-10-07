@@ -35,9 +35,13 @@ ___
 
 
 ___
-#### Ασκήσεις ####
+#### Ασκήσεις Εργαστηρίου ####
 * Τοποθετήστε σωστά τις σειρές εντολών για να εμφανιστεί το Hello World!.  
-[Parson Puzzle - Hello World](https://codecheck.io/files/22100219085gl7uerlfbwgcd63ukxmz8ct9)
+[Parson Puzzle - Hello World](https://codecheck.io/files/22100219085gl7uerlfbwgcd63ukxmz8ct9)  
+Όταν πετύχετε να κάνετε `compile`  
+a. κάντε **Download** το αποτέλεσμα  
+b. μετονομάστε το στο αριθμητικό μέρος του ΑΜ σας (πχ 2022123.zip) και  
+c. **ανεβάστε** το στη μη αξιολογούμενη εργασία της εβδομάδας στο opencourses
 
 * Συμπληρώστε τη γραμμή που λείπει με μία εντολή `printf` για να εμφανίσετε το "Hello World".  
 [Print Hello World](https://codecheck.io/files/22100219466et1rsi8zjxambwn1p0j0k6tf)
